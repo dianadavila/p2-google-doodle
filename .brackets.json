@@ -8,7 +8,7 @@
                 "outputStyle": "compressed"
             },
             "linting.collapsed": true,
-            "fonts.fontSize": "23px"
+            "fonts.fontSize": "12px"
         }
     }
 }
