@@ -15,7 +15,7 @@ body {
 // Stage (Parent)
 #stage {
     position: relative; 
-    overflow: hidden;
+    overflow: visible;
 }
 
 
@@ -26,8 +26,8 @@ body {
 svg {
     position: absolute;
     margin-top: 14px;
-    margin-left: 100px;
-    height: 95%;
+    margin-left: -200px;
+    height: 90%;
     
     
 }
